@@ -1,3 +1,4 @@
+#wap to find the aveargeusing function
 #a=23
 #b=37
 #c=75
