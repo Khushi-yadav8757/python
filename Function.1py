@@ -1,0 +1,3 @@
+def this_fun():
+  print("Hello , My name is Khushi")
+this_fun()
