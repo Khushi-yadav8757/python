@@ -1,4 +1,6 @@
 #Difference between deepcopy and copy
+
+Ans:-
 import copy
 a = [[1, 2], [3, 4]]
 b = copy.copy(a)      # Shallow copy
