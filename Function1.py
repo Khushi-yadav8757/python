@@ -1,3 +1,4 @@
+#Function
 Functionis the block of code which only runs when is called 
 function is also used for reusablility of code 
 python function starts with "def" keyword
