@@ -1,5 +1,5 @@
 #Sort a dictionary by values
-Ans:
+
 def sort_dict_by_value(d):
     return dict(sorted(d.items(), key=lambda x: x[1]))
 
