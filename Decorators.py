@@ -1,5 +1,6 @@
 #What are Python decorators?
 Ans: A decorator is a function that modifies the behavior of another function or class.
+Syntax:
 def decorator(func):
     def wrapper():
         print("Before function")
