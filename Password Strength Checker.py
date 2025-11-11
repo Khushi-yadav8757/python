@@ -6,7 +6,6 @@ def check_password(password):
         return "Strong Password"
     else:
         return "Weak Password"
-
 # Test
 print(check_password("Khushi@123"))
 print(check_password("khushi123"))
